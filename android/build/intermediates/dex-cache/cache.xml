@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-vector-icons-unspecified_ecd0438bda37df8339b845f3bf3b1e1dc5981e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8c7bebc69759ef1d88283c332add9465d50a38ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_2556b6320aff1ce21d40e3734bde5f4e27f39ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ab4ff757140e7998c543a5d042b57cb8c0c024a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_18fa94300248e63f80afe3d78289843c42fccccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c256a8a92cf9b7a20137cba2651c85a0a8ee892d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b2e41ce26c3df81d4825a21d4e75354c0c1696b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_b4fda199f4f4df51579b80f94337649ed766a319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6bea79e6a2852f22bdb26572d1723f1b1342a953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9c3b624f3152b2cd0c3a4b8ea8e2845f2b5345a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_be92acbdccb45b78cf75a24655036e3405c45a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a8bcb6addce08d101b9893d2e60f42bfac1f1eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_2114fe7a6c2f0af34f25253eac970c4f5475ec88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_8a4a63649de68da69453aeae9026ba8de14dcd12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_5670650c771f71cec48ecfa3507633ffba087dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_2d52865646d33ee50971d288478fc67a5c045ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-linear-gradient\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-linear-gradient-unspecified_dc8be8f6c9658c9c72c2232b334eac9b50eca197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_e3c01a37bc4711a583b3e4147994776df1b57bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_acded88cd0e73840a20d573631cbbcaaac8f28ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b2e41ce26c3df81d4825a21d4e75354c0c1696b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7afe6002bae30078714c186ccd75211c40870f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-svg\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca8a0f3d5ee69064412a9209f7297036d041c9d0">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-svg-unspecified_0d70d3056b0dc8d1ff60eb5cc72e019b859f6b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_da97ab488fa1ab360fe9503cd1e1e616f5bccac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_3495147199e4a6a13049c1945d4b5d596d494f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-linear-gradient\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-linear-gradient-unspecified_86fa9f6a17bc955a233c1f706551dc66a72bf90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_02229f1ccaaeb24fe8ccd323e84ac787fa4de68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d798e3818ad971ff375aefaf040de3ad61e0fbae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-navigation-unspecified_6c638fef732c77a3fb781dac4b52f7d3ac4960c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7afe6002bae30078714c186ccd75211c40870f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_66aa1ed78649195c0960d6890c8316157059fd66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_844687c9e0cbf204e4e8c7972839ced7b760cdb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_42f9e7e499e17c980063e18860ff8a0ccf76b2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_2b69e1408b07e3c612ebe60b8223891a3995d43a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d798e3818ad971ff375aefaf040de3ad61e0fbae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_72b3a6a5467058c52093d284775ff72be462fec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_2114fe7a6c2f0af34f25253eac970c4f5475ec88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_86fc04aa7a95962d63b18d7b618d069217ad14f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_52b8a52bda7a41df00cdce333d5240afe7ca7617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-svg\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca8a0f3d5ee69064412a9209f7297036d041c9d0">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-svg-unspecified_6ebfcafa66c737dec41890b5778fa0f1bbc78602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0737f927a4ec49a7dfa5fab4fea85b423b63da3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9c3b624f3152b2cd0c3a4b8ea8e2845f2b5345a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_b416aeb55b1c7f7efbb49896931e0e1d7cbf44fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_6c50cc09c5af9267d70cf7750e649336c135ae93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_52b8a52bda7a41df00cdce333d5240afe7ca7617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_844687c9e0cbf204e4e8c7972839ced7b760cdb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d159bbdc8aaa18aa70b713ab23d1f1600fbbfdf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_200172cf9fdec317c499d37c93e2d31baf3db9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_6c50cc09c5af9267d70cf7750e649336c135ae93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_c8b8a20783beda6434a38ff25491c52873528509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-navigation-unspecified_462267fc7ca2b188f1b5d00c756aaf5c98338d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_dad324969f1f423f2de51bfb3f204c950642a2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8f4de8c5daf6e0615ea3c66b52e571dd2e64c856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_33c15eea190d07e31e2f78c02c2fe91ac691e31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_e433d0155986e42e168c2af4246c779c33988fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d8b87b3ec715918c36f22c559005109b7f08a7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_25447b3d2ec52bda83eac9353d6d2cbd1f2a3440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d8b87b3ec715918c36f22c559005109b7f08a7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_3a59675239c2e1dd4199a66356a012c629b35a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_660bb85d5a568dd2798b07d8a63a2b96536b0b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_33c15eea190d07e31e2f78c02c2fe91ac691e31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8f4de8c5daf6e0615ea3c66b52e571dd2e64c856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_873dcb30fc26be49b757588ae322caabd8fa1517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_04f27d4930d913724793c1d45d4a69fb7bc0e805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-vector-icons-unspecified_5f71a32dcd657cb6bc96a43e72ca06e53a399b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\portfolioApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed84182103dc7eaadeeb62e9a1e870472607da51">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\portfolioApp-react-native-vector-icons-unspecified_5f71a32dcd657cb6bc96a43e72ca06e53a399b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_51f51a8928acec0657ebc2558af278402b197aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_340496fecf3687059773bc42cf49195cbea775ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_64b1f39b8e7c56707705f8b2031a914991a647d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_0bde1fa806d9ad2495d283d0c5f1ea4172d6d4f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_e37e3543633516456c4a60d42aafbe8b40261b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_267f9d3bcb954c0293f90ceba0928585a8135773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_873dcb30fc26be49b757588ae322caabd8fa1517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_c6fc6ed29ff54884a8ecfb4d419bce1e59addfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_a092ac6dc93a4e79777157fd419eac23ea8072c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_88e2358e43f9f7680d1f474bb7cd21756af8a115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f453d5ecf191e0f77066ca253254a22f10ab427d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_2b0119e916fccab81bbe0c5cc1a666577d57d26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_2e6499cc8df39bf8cd0e03a46c48bb6e72450b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_2f5397e4c6a97d0f9614bfdefa4775f0680d5609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\builderApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_4ca59e905688d348c275e3626119b18ba36da418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_88e2358e43f9f7680d1f474bb7cd21756af8a115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ab4ff757140e7998c543a5d042b57cb8c0c024a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_2f5397e4c6a97d0f9614bfdefa4775f0680d5609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_200172cf9fdec317c499d37c93e2d31baf3db9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashank.Gaurav\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Shashank.Gaurav\Desktop\React-Native\portfolioApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_a092ac6dc93a4e79777157fd419eac23ea8072c8.jar" />
+    </item>
+
+</items>
