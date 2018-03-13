@@ -23,6 +23,7 @@
     "normalizr": "^3.2.4",
     "react": "16.2.0",
     "react-native": "0.52.0",
+    "react-native-calendars": "^1.17.3",
     "react-native-fontawesome": "^5.7.0",
     "react-native-highcharts": "^1.0.2",
     "react-native-linear-gradient": "^2.4.0",

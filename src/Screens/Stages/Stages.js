@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Text, ScrollView, TouchableOpacity, View, StyleSheet, Image} from 'react-native';
 import { Button, Icon, Header, Left, Right, Body, Title } from "native-base";
+import CustomHeader from "../../Components/UI_Header/Header";
 
 class Stages extends Component {
 
@@ -22,22 +23,28 @@ class Stages extends Component {
     }
 
     _handleDetails = () => {
-        this.props.navigator.push()
+        this.props.navigator.push({
+            screen: 'builder.StageDetails', // unique ID registered with Navigation.registerScreen
+            animated: true, // does the resetTo have transition animation or does it happen immediately (optional)
+            animationType: 'fade', // 'fade' (for both) / 'slide-horizontal' (for android) does the resetTo have different transition animation (optional)
+            navigatorStyle: {navBarHidden: true,}, // override the navigator style for the pushed screen (optional)
+          });
     }
+
+    _handleDefectClick = () => {
+        this.props.navigator.push({
+            screen: 'builder.DefectDetails', // unique ID registered with Navigation.registerScreen
+            animated: true, // does the resetTo have transition animation or does it happen immediately (optional)
+            animationType: 'fade', // 'fade' (for both) / 'slide-horizontal' (for android) does the resetTo have different transition animation (optional)
+            navigatorStyle: {navBarHidden: true,}, // override the navigator style for the pushed screen (optional)
+          });
+    }
+
 
     render(){
         return (
             <View style = {{flex: 1}}>
-            <Header>
-             <Left>
-                <Button transparent onPress = {this.onNavigatorEvent}>
-                <Icon name='md-menu' />
-                </Button>
-            </Left>
-            <Body>
-                <Title>Header</Title>
-            </Body>
-            </Header>
+            <CustomHeader onNavigatorEvent = {this.onNavigatorEvent} />
             <ScrollView style = {Styles.container}>
                 <View style = {Styles.cardContainer}>
                     <View style = {Styles.cardHeader}>
@@ -52,7 +59,6 @@ class Stages extends Component {
                         </View>
                         <View style = {[Styles.buttonContainer, {transform:[{rotate: '90 deg'}]}]}>
                             <Icon name = "md-more" />
-                            {/* <TouchableOpacity><Image source = {require("../../Assets/mail.png")} /></TouchableOpacity> */}
                         </View>
                     </View>
                     <View style = {Styles.subContract}>
@@ -60,111 +66,79 @@ class Stages extends Component {
                         <View style = {Styles.subContractText}><Text style = {Styles.subContractNameText}>Subcontractor name</Text></View>
                     </View>
                     <View style = {Styles.defect}>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options} onPress = {this._handleDefectClick}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
                         <TouchableOpacity style = {Styles.options}><Text adjustsFontSizeToFit style = {Styles.optionsText}>Inspections</Text></TouchableOpacity>
                         <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Issues</Text></TouchableOpacity>
                         <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Files</Text></TouchableOpacity>
                     </View>
                     <View style = {Styles.button}>
-                        {/* <TouchableOpacity style = {Styles.openButton}>
-                            <Text style = {Styles.openButtonText}>Reopen</Text>
-                        </TouchableOpacity> */}
                         <Button block style = {Styles.openButton}><Text style = {Styles.openButtonText}>Reopen</Text></Button>
-                        {/* <TouchableOpacity style = {Styles.disabledButton}>
-                            <Text style = {Styles.finishButtonText}>Finish</Text>
-                        </TouchableOpacity> */}
-                        <Button block disabled style = {Styles.disabledButton}><Text>Finish</Text></Button>
-                        <Button block style = {Styles.detailsButton}><Text>Details</Text></Button>
-
-                        {/* <TouchableOpacity style = {Styles.detailsButton}>
-                            <Text style = {Styles.detailsButtonText}>Details</Text>
-                        </TouchableOpacity> */}
-                    </View>
-                </View>
-
-                <View style = {Styles.cardContainer}>
-                    <View style = {Styles.cardHeader}>
-                        <View style = {Styles.defectStatusColor}><Text></Text></View>
-                        <View style = {Styles.defectName}><Text style = {Styles.defectNameText}>Lorem Ipsum</Text></View>
-                        <View style = {Styles.defectStatus}><Text style = {Styles.defectStatusText}>Late Start</Text></View>
-                    </View>
-                    <View style = {Styles.start}>
-                        <View style = {Styles.dateContainer}>
-                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>Start: </Text>2/3/2018</Text>
-                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>End: </Text>8/3/2018</Text>
-                        </View>
-                        <View style = {[Styles.buttonContainer, {transform:[{rotate: '90 deg'}]}]}>
-                            <Icon name = "md-more" />
-                            {/* <TouchableOpacity><Image source = {require("../../Assets/mail.png")} /></TouchableOpacity> */}
-                        </View>
-                    </View>
-                    <View style = {Styles.subContract}>
-                        <View style = {Styles.subContractTitle}><Text style = {Styles.subContractTitleText}>Subcontractor:</Text></View>
-                        <View style = {Styles.subContractText}><Text style = {Styles.subContractNameText}>Subcontractor name</Text></View>
-                    </View>
-                    <View style = {Styles.defect}>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text adjustsFontSizeToFit style = {Styles.optionsText}>Inspections</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Issues</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Files</Text></TouchableOpacity>
-                    </View>
-                    <View style = {Styles.button}>
-                        {/* <TouchableOpacity style = {Styles.openButton}>
-                            <Text style = {Styles.openButtonText}>Reopen</Text>
-                        </TouchableOpacity> */}
-                        <Button block style = {Styles.openButton}><Text style = {Styles.openButtonText}>Reopen</Text></Button>
-                        {/* <TouchableOpacity style = {Styles.disabledButton}>
-                            <Text style = {Styles.finishButtonText}>Finish</Text>
-                        </TouchableOpacity> */}
-                        <Button block disabled style = {Styles.disabledButton}><Text>Finish</Text></Button>
-                        <Button block style = {Styles.detailsButton}><Text>Details</Text></Button>
-
-                        {/* <TouchableOpacity style = {Styles.detailsButton}>
-                            <Text style = {Styles.detailsButtonText}>Details</Text>
-                        </TouchableOpacity> */}
-                    </View>
-                </View>
-
-                <View style = {Styles.cardContainer}>
-                    <View style = {Styles.cardHeader}>
-                        <View style = {Styles.defectStatusColor}><Text></Text></View>
-                        <View style = {Styles.defectName}><Text style = {Styles.defectNameText}>Lorem Ipsum</Text></View>
-                        <View style = {Styles.defectStatus}><Text style = {Styles.defectStatusText}>Late Start</Text></View>
-                    </View>
-                    <View style = {Styles.start}>
-                        <View style = {Styles.dateContainer}>
-                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>Start: </Text>2/3/2018</Text>
-                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>End: </Text>8/3/2018</Text>
-                        </View>
-                        <View style = {[Styles.buttonContainer, {transform:[{rotate: '90 deg'}]}]}>
-                            <Icon name = "md-more" />
-                            {/* <TouchableOpacity><Image source = {require("../../Assets/mail.png")} /></TouchableOpacity> */}
-                        </View>
-                    </View>
-                    <View style = {Styles.subContract}>
-                        <View style = {Styles.subContractTitle}><Text style = {Styles.subContractTitleText}>Subcontractor:</Text></View>
-                        <View style = {Styles.subContractText}><Text style = {Styles.subContractNameText}>Subcontractor name</Text></View>
-                    </View>
-                    <View style = {Styles.defect}>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text adjustsFontSizeToFit style = {Styles.optionsText}>Inspections</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Issues</Text></TouchableOpacity>
-                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Files</Text></TouchableOpacity>
-                    </View>
-                    <View style = {Styles.button}>
-                        {/* <TouchableOpacity style = {Styles.openButton}>
-                            <Text style = {Styles.openButtonText}>Reopen</Text>
-                        </TouchableOpacity> */}
-                        <Button block style = {Styles.openButton}><Text style = {Styles.openButtonText}>Reopen</Text></Button>
-                        {/* <TouchableOpacity style = {Styles.disabledButton}>
-                            <Text style = {Styles.finishButtonText}>Finish</Text>
-                        </TouchableOpacity> */}
                         <Button block disabled style = {Styles.disabledButton}><Text>Finish</Text></Button>
                         <Button block style = {Styles.detailsButton} onPress = {this._handleDetails}><Text>Details</Text></Button>
+                    </View>
+                </View>
 
-                        {/* <TouchableOpacity style = {Styles.detailsButton}>
-                            <Text style = {Styles.detailsButtonText}>Details</Text>
-                        </TouchableOpacity> */}
+                <View style = {Styles.cardContainer}>
+                    <View style = {Styles.cardHeader}>
+                        <View style = {Styles.defectStatusColor}><Text></Text></View>
+                        <View style = {Styles.defectName}><Text style = {Styles.defectNameText}>Lorem Ipsum</Text></View>
+                        <View style = {Styles.defectStatus}><Text style = {Styles.defectStatusText}>Late Start</Text></View>
+                    </View>
+                    <View style = {Styles.start}>
+                        <View style = {Styles.dateContainer}>
+                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>Start: </Text>2/3/2018</Text>
+                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>End: </Text>8/3/2018</Text>
+                        </View>
+                        <View style = {[Styles.buttonContainer, {transform:[{rotate: '90 deg'}]}]}>
+                            <Icon name = "md-more" />
+                        </View>
+                    </View>
+                    <View style = {Styles.subContract}>
+                        <View style = {Styles.subContractTitle}><Text style = {Styles.subContractTitleText}>Subcontractor:</Text></View>
+                        <View style = {Styles.subContractText}><Text style = {Styles.subContractNameText}>Subcontractor name</Text></View>
+                    </View>
+                    <View style = {Styles.defect}>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text adjustsFontSizeToFit style = {Styles.optionsText}>Inspections</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Issues</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Files</Text></TouchableOpacity>
+                    </View>
+                    <View style = {Styles.button}>
+                        <Button block style = {Styles.openButton}><Text style = {Styles.openButtonText}>Reopen</Text></Button>
+                        <Button block disabled style = {Styles.disabledButton}><Text>Finish</Text></Button>
+                        <Button block style = {Styles.detailsButton}><Text>Details</Text></Button>
+                    </View>
+                </View>
+
+                <View style = {Styles.cardContainer}>
+                    <View style = {Styles.cardHeader}>
+                        <View style = {Styles.defectStatusColor}><Text></Text></View>
+                        <View style = {Styles.defectName}><Text style = {Styles.defectNameText}>Lorem Ipsum</Text></View>
+                        <View style = {Styles.defectStatus}><Text style = {Styles.defectStatusText}>Late Start</Text></View>
+                    </View>
+                    <View style = {Styles.start}>
+                        <View style = {Styles.dateContainer}>
+                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>Start: </Text>2/3/2018</Text>
+                            <Text style = {Styles.dateInfo}><Text style = {Styles.dateTitle}>End: </Text>8/3/2018</Text>
+                        </View>
+                        <View style = {[Styles.buttonContainer, {transform:[{rotate: '90 deg'}]}]}>
+                            <Icon name = "md-more" />
+                        </View>
+                    </View>
+                    <View style = {Styles.subContract}>
+                        <View style = {Styles.subContractTitle}><Text style = {Styles.subContractTitleText}>Subcontractor:</Text></View>
+                        <View style = {Styles.subContractText}><Text style = {Styles.subContractNameText}>Subcontractor name</Text></View>
+                    </View>
+                    <View style = {Styles.defect}>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Defects</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text adjustsFontSizeToFit style = {Styles.optionsText}>Inspections</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Issues</Text></TouchableOpacity>
+                        <TouchableOpacity style = {Styles.options}><Text style = {Styles.optionsText}>Files</Text></TouchableOpacity>
+                    </View>
+                    <View style = {Styles.button}>
+                        <Button block style = {Styles.openButton}><Text style = {Styles.openButtonText}>Reopen</Text></Button>
+                        <Button block disabled style = {Styles.disabledButton}><Text>Finish</Text></Button>
+                        <Button block style = {Styles.detailsButton} onPress = {this._handleDetails}><Text>Details</Text></Button>
                     </View>
                 </View>
             </ScrollView>
